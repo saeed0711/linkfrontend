@@ -1,7 +1,7 @@
 // const URL='https://docapp-t2wv.onrender.com'
 
-const URL = 'http://localhost:4000'
-
+// const URL = 'http://localhost:4000'
+const URL = 'https://linkbackend-gl1h.onrender.com'
 // export const register = (data) => {
 //     return fetch(`${URL}/user/register`, {
 
